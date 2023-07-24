@@ -8,3 +8,18 @@
 <pre>
   console.log('Hello, World!')
 </pre>
+
+<style>
+  @keyframes colorChance {
+    from {
+      color: #0000ff;
+    }
+    to {
+      color: #ff0000;
+    }
+  }
+  
+  .name {
+    animation: colorChance .2s infinite;
+  }
+</style>
