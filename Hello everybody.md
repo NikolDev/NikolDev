@@ -6,5 +6,5 @@
 <p>- 📫 How to reach me <a href='https://t.me/NikolayFB'><b>My telegram, </b></a> <a href='https://www.youtube.com/channel/UC2EBmK4mKQD_CjalyfV1g_A'><b>My youtube(RU), </b></a> <a href='https://inlnk.ru/ZZN4KX'><b>My Google Play</b></a></p>
 
 <pre>
-1. console.log('Hello, World!')
+console.log('Hello, World!')
 </pre>
