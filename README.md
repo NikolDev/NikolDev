@@ -1,5 +1,5 @@
 <h1 class='name'><b>About me</b></h1>
-<img src="/Баннер.png" alt='FLOFYAPPS_Logo' width='1024' height='420'>
+<img src="/Баннер.png" alt='FLOFYAPPS_Logo'>
 <h3>Little story</h3>
 <p>I have been programming since the age of 15. Specifically, I am a front-end developer. In addition to the web, I am engaged in gamedev and I like to write different projects in different programming languages, namely Python, Java, Javascript, C# and Unity.</p>
 <h3>Shortly about myself</h3>
@@ -12,7 +12,7 @@
 <pre>
 class GitHub { 
   public static void main(String[] args) { 
-    System.out.println("Hello World!"); 
+    System.out.println("Hello, GitHub!"); 
     } 
 }
 </pre>
