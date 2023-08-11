@@ -1,7 +1,10 @@
-<h1 class='name'><b>About me</b></h1>
+<h1 align='center'><b>👋 Hi, i am a Nilolay!</b></h1>
+
 <img src="/Баннер.png" alt='FLOFYAPPS_Logo'>
+
 <h3>Little story</h3>
 <p>I have been programming since the age of 15. Specifically, I am a front-end developer. In addition to the web, I am engaged in gamedev and I like to write different projects in different programming languages, namely Python, Java, Javascript, C# and Unity.</p>
+
 <h3>Shortly about myself</h3>
 <p>- 👋 Hi, I’m <b>Nikolay!</b></p>
 <p>- 🧠 I am programming with <b>15 years</b></p>
@@ -16,5 +19,9 @@ class GitHub {
     } 
 }
 </pre>
+<h3>Check my shortly stats</h3>
+<img src="https://myreadme.vercel.app/api/embed/NikolDev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 You are can looking my repositories and use it in your project! Also, follow me because I taught you clean code!
+
+![Metrics](https://metrics.lecoq.io/NikolDev?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FMinsk)
